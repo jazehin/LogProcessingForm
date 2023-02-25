@@ -1,0 +1,9 @@
+időpont;felhasználó, számítógép IP címe; eseményüzenet
+2023.02.11.10:00:00;user1;192.168.100.4;szerverszolgáltatáskérés
+2023.02.11.10:00:02;user2;192.168.100.7;bejelentkezés
+2023.02.11.11:00:02;user2;192.168.100.7;kijelentkezés
+2023.02.20.12:02:12;user11;192.168.100.19;hiba
+2023.02.21.10:00:00;user1;192.168.100.4;szerverszolgáltatáskérés
+2023.02.21.10:00:02;user2;192.168.100.7;bejelentkezés
+2023.02.22.11:00:02;user2;192.168.100.7;hiba
+2023.02.22.12:02:12;user11;192.168.100.19;hiba
